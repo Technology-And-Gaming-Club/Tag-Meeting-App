@@ -1,4 +1,4 @@
-# tagmeetings
+# TAG Meeting App
 
 Flutter app to keep record of TAG meeting attendance and its statistics
 
